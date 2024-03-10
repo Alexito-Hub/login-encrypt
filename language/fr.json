@@ -1,0 +1,14 @@
+{
+	"errorDb": "Erreur de connexion à la base de données :",
+	"errorCaptcha": "Erreur lors du chargement du CAPTCHA : le fichier n'existe pas ou est vide",
+	"errorGenerateCaptcha": "Erreur lors de la génération du CAPTCHA :",
+	"captchaPrompt": "Entrez le CAPTCHA :",
+	"enterUsername": "Nom d'utilisateur : ",
+	"enterPassword": "Mot de passe : ",
+	"incorrectUsername": "Nom d'utilisateur incorrect",
+	"incorrectPassword": "Mot de passe incorrect",
+	"loginSuccessful": "Connexion réussie",
+	"incorrectCredentials": "Erreur de connexion",
+	"errorLogin": "Erreur de connexion :",
+	"noCollection": "noCollection"
+}

@@ -1,0 +1,13 @@
+{
+    "errorDb": "Error connecting to database:",
+    "errorCaptcha": "Error loading CAPTCHA: The file does not exist or is empty",
+    "errorGenerateCaptcha": "Error loading CAPTCHA:",
+    "captchaPrompt": "Enter CAPTCHA:",
+    "enterUsername": "Username: ",
+    "enterPassword": "Password: ",
+    "incorrectUsername": "Username not found",
+    "incorrectPassword": "Incorrect password",
+    "loginSuccessful": "Login successful",
+    "incorrectCredentials": "Login failed",
+    "errorLogin": "Login failed:"
+}

@@ -1,0 +1,14 @@
+{
+	"errorDb": "Fehler beim Verbinden mit der Datenbank:",
+	"errorCaptcha": "Fehler beim Laden des CAPTCHA: Die Datei existiert nicht oder ist leer",
+	"errorGenerateCaptcha": "Fehler beim Generieren des CAPTCHA:",
+	"captchaPrompt": "Geben Sie CAPTCHA ein:",
+	"enterUsername": "Benutzername: ",
+	"enterPassword": "Passwort: ",
+	"incorrectUsername": "Benutzername nicht gefunden",
+	"incorrectPassword": "Falsches Passwort",
+	"loginSuccessful": "Anmeldung erfolgreich",
+	"incorrectCredentials": "Fehler bei der Anmeldung",
+	"errorLogin": "Fehler beim Einloggen:",
+	"incorrectCaptcha": "incorrectCaptcha"
+}

@@ -1,0 +1,23 @@
+{
+    "noUser": "Debe configurar la base de datos de MongoDB con su nombre de usuario",
+    "noPassword": "Debe proporcionar la contraseña para acceder a la base de datos MongoDB",
+    "noCollection": "Es necesario especificar una colección de la cual obtener las credenciales para el inicio de sesión",
+    "errorDb": "Error al conectar con la base de datos:",
+    "errorCaptcha": "Error al cargar el CAPTCHA: El archivo no existe o está vacío",
+    "errorGenerateCaptcha": "Error al cargar el CAPTCHA:",
+    "captchaPrompt": "Ingrese CAPTCHA:",
+    "enterUsername": "Nombre de Usuario: ",
+    "enterPassword": "Contraseña: ",
+    "incorrectUsername": "Nombre de usuario no encontrado",
+    "incorrectPassword": "Contraseña incorrecta",
+    "loginSuccessful": "Inicio de sesión exitoso",
+    "incorrectCredentials": "Error al iniciar sesión",
+    "errorLogin": "Error en el login:",
+
+    "existingUser": "Este usuario ya existe",
+    "registerSuccessful": "Registro exitoso",
+    "incorrectRegistration": "Error al registrar",
+    "errorRegistration": "Error al registrar:",
+    "register": "Registrarse",
+    "login": "Iniciar sesión"
+}
