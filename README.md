@@ -13,6 +13,10 @@
 
 Para poder usar `login-encrypt`, se deben seguir una serie de pasos detallados en la documentación oficial.
 
+## Código
+
+Actualmente, el código está disponible en formato abierto. Sin embargo, se planea ofuscar o encriptar el código en versiones futuras para una mayor seguridad.
+
 ## Próximas Características
 
 Pronto se agregarán más características robustas para una mayor seguridad y funcionalidad del paquete.
