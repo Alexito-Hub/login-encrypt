@@ -8,6 +8,6 @@ encrypt({
         name: 'Node'
     },
     config: {
-        language: 'es'
+        language: 'de'
     }
 })
