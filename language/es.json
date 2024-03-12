@@ -8,11 +8,12 @@
     "captchaPrompt": "Ingrese CAPTCHA:",
     "enterUsername": "Nombre de Usuario: ",
     "enterPassword": "Contraseña: ",
+    "incorrectCaptcha": "Captcha incorrecto, intentelo de nuevo mas tarde",
     "incorrectUsername": "Nombre de usuario no encontrado",
     "incorrectPassword": "Contraseña incorrecta",
     "loginSuccessful": "Inicio de sesión exitoso",
     "incorrectCredentials": "Error al iniciar sesión",
-    "errorLogin": "Error en el login:",
+    "errorLogin": "Error en el login: ",
 
     "existingUser": "Este usuario ya existe",
     "registerSuccessful": "Registro exitoso",

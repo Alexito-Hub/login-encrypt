@@ -1,13 +1,24 @@
 {
-    "errorDb": "Error connecting to database:",
-    "errorCaptcha": "Error loading CAPTCHA: The file does not exist or is empty",
+    "noUser": "You must configure the MongoDB database with your username",
+    "noPassword": "You must provide the password to access the MongoDB database",
+    "noCollection": "You need to specify a collection from which to retrieve the credentials for login",
+    "errorDb": "Error connecting to the database:",
+    "errorCaptcha": "Error loading CAPTCHA: File does not exist or is empty",
     "errorGenerateCaptcha": "Error loading CAPTCHA:",
     "captchaPrompt": "Enter CAPTCHA:",
     "enterUsername": "Username: ",
     "enterPassword": "Password: ",
+    "incorrectCaptcha": "Incorrect CAPTCHA, please try again later",
     "incorrectUsername": "Username not found",
     "incorrectPassword": "Incorrect password",
     "loginSuccessful": "Login successful",
-    "incorrectCredentials": "Login failed",
-    "errorLogin": "Login failed:"
+    "incorrectCredentials": "Error logging in",
+    "errorLogin": "Error in login: ",
+
+    "existingUser": "This user already exists",
+    "registerSuccessful": "Registration successful",
+    "incorrectRegistration": "Error registering",
+    "errorRegistration": "Error registering:",
+    "register": "Register",
+    "login": "Login"
 }

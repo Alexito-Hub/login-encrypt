@@ -103,7 +103,7 @@ async function login(locale) {
             }
 
 
-            await findUser(username, password).then(user => {
+            findUser(username, password).then(user => {
                 if (user) {
                     console.log(i18n.__('loginSuccessful'));
                 } else {
@@ -113,7 +113,6 @@ async function login(locale) {
                 console.error(i18n.__('errorLogin'), err);
             }).finally(() => {
                 fs.unlinkSync(captcha.imagePath);
-                mongoose.disconnect()
             });
 
         });
@@ -121,5 +120,4 @@ async function login(locale) {
         console.error('errorGenerateCaptcha', err);
     }
 }
-
 module.exports = login;
