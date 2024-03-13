@@ -1,6 +1,6 @@
 {
   "name": "login-encrypt-zio",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "encrypt login for base-ziooo",
   "main": "encrypt.cjs",
   "module": "encrypt.mjs",
