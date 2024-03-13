@@ -14,7 +14,7 @@
     "loginSuccessful": "Login successful",
     "incorrectCredentials": "Error logging in",
     "errorLogin": "Error in login: ",
-
+    "errorUnknown": "Unknown error",
     "existingUser": "This user already exists",
     "registerSuccessful": "Registration successful",
     "incorrectRegistration": "Error registering",

@@ -14,7 +14,7 @@
     "loginSuccessful": "Connexion réussie",
     "incorrectCredentials": "Erreur de connexion",
     "errorLogin": "Erreur de connexion : ",
-
+    "errorUnknown": "Erreur inconnue",
     "existingUser": "Cet utilisateur existe déjà",
     "registerSuccessful": "Inscription réussie",
     "incorrectRegistration": "Erreur d'inscription",
